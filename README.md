@@ -1,4 +1,7 @@
 # Laravel
+laravel mixの使い方
+https://qiita.com/jefftech/items/13175e34651ace96eab6
+
 【laravel5.5】Proxy有りの環境でLaravelの開発環境を構築する
 https://qiita.com/tetsu0831/items/38c5336c309476c10420
 
