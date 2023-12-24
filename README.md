@@ -2,6 +2,9 @@
 【Windows対応】Laravel・PHP開発のためのDocker環境構築ガイド
 https://www.youtube.com/watch?v=FpbPYF0Zp1w
 
+【rm, rmdir】Linuxでディレクトリを削除するコマンド
+https://uxmilk.jp/8318
+
 laravel mixの使い方
 https://qiita.com/jefftech/items/13175e34651ace96eab6
 
