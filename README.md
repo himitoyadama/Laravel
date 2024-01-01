@@ -1,4 +1,7 @@
 # Laravel
+[PHP] composerのPROXY設定
+https://qiita.com/pb_tmz08/items/b01051c2d555f55681fa
+
 【Windows対応】Laravel・PHP開発のためのDocker環境構築ガイド
 https://www.youtube.com/watch?v=FpbPYF0Zp1w
 
