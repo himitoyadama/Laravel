@@ -1,4 +1,7 @@
 # Laravel
+malformed http_proxy url
+https://www.youtube.com/watch?v=LyCu7jnFnDY
+
 [PHP] composerのPROXY設定
 https://qiita.com/pb_tmz08/items/b01051c2d555f55681fa
 
