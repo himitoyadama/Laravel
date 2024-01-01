@@ -1,6 +1,12 @@
 # Laravel
+Laravelデータベーステーブルの作り方・モデルとマイグレーション｜初心者のためのLaravelの教科書4
+https://www.youtube.com/watch?v=E7MnbNVN6xw
+
 Laravel 5.3: Migrate step by step
 https://stackoverflow.com/questions/40086974/laravel-5-3-migrate-step-by-step
+
+malformed http_proxy url
+https://www.youtube.com/watch?v=LyCu7jnFnDY
 
 【Laravel実践】WEBアプリを作りながらLravelを学ぶ【＃2データベース編】
 https://www.youtube.com/watch?v=gmtVyOu3duk
@@ -11,8 +17,6 @@ https://www.youtube.com/watch?v=6R-HokpNex8
 Laravel入門 その1「開発環境を整える(XAMMP編)」
 https://www.youtube.com/watch?v=p1bGCZkz25c&t=330s
 
-malformed http_proxy url
-https://www.youtube.com/watch?v=LyCu7jnFnDY
 
 [PHP] composerのPROXY設定
 https://qiita.com/pb_tmz08/items/b01051c2d555f55681fa
