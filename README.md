@@ -1,4 +1,7 @@
 # Laravel
+【Laravel実践】WEBアプリを作りながらLravelを学ぶ【＃1環境構築編】
+https://www.youtube.com/watch?v=6R-HokpNex8
+
 Laravel入門 その1「開発環境を整える(XAMMP編)」
 https://www.youtube.com/watch?v=p1bGCZkz25c&t=330s
 
