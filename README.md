@@ -1,4 +1,7 @@
 # Laravel
+【Laravel実践】WEBアプリを作りながらLravelを学ぶ【＃2データベース編】
+https://www.youtube.com/watch?v=gmtVyOu3duk
+
 【Laravel実践】WEBアプリを作りながらLravelを学ぶ【＃1環境構築編】
 https://www.youtube.com/watch?v=6R-HokpNex8
 
