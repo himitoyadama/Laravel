@@ -1,4 +1,7 @@
 # Laravel
+Laravel入門 その1「開発環境を整える(XAMMP編)」
+https://www.youtube.com/watch?v=p1bGCZkz25c&t=330s
+
 malformed http_proxy url
 https://www.youtube.com/watch?v=LyCu7jnFnDY
 
