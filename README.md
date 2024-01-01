@@ -8,14 +8,14 @@ https://stackoverflow.com/questions/40086974/laravel-5-3-migrate-step-by-step
 malformed http_proxy url
 https://www.youtube.com/watch?v=LyCu7jnFnDY
 
+Laravel入門 その1「開発環境を整える(XAMMP編)」 
+https://www.youtube.com/watch?v=p1bGCZkz25c&t=330s
+
 【Laravel実践】WEBアプリを作りながらLravelを学ぶ【＃2データベース編】
 https://www.youtube.com/watch?v=gmtVyOu3duk
 
 【Laravel実践】WEBアプリを作りながらLravelを学ぶ【＃1環境構築編】
 https://www.youtube.com/watch?v=6R-HokpNex8
-
-Laravel入門 その1「開発環境を整える(XAMMP編)」
-https://www.youtube.com/watch?v=p1bGCZkz25c&t=330s
 
 
 [PHP] composerのPROXY設定
